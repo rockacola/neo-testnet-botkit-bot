@@ -1,7 +1,7 @@
 {
-  "name": "botkit-starter-slack",
-  "version": "1.2.7",
-  "description": "A starter kit for building a custom Slack bot with Botkit Studio",
+  "name": "neo-testnet-botkit-bot",
+  "version": "1.2.8",
+  "description": "Slack bot uses library and interacts with NEO Testnet blockchain.",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
@@ -33,6 +33,6 @@
     "chatbots",
     "slack"
   ],
-  "author": "ben@howdy.ai",
-  "license": "ISC"
+  "author": "rockacola",
+  "license": "MIT"
 }
