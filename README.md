@@ -1,1 +1,0 @@
-# neo-testnet-botkit-bot
